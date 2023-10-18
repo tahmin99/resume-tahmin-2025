@@ -12,4 +12,3 @@ As a part of the PEMD research group, we strive to pioneer advanced power conver
 * email: tmahmud[dot]eecs[at]gmail.com
 * my portfolio: [www.tahminmahmud.me](https://www.tahminmahmud.me/)
 * Cell: (564)-444-0904
-WA, USA
