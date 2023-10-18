@@ -9,7 +9,7 @@ My graduate research spans around the discipline of Power Electronics, with a ke
 As a part of the PEMD research group, we strive to pioneer advanced power converter technologies, optimizing for factors such as affordability, high efficiency, minimal output distortion, rapid transient responses and a steadfast commitment to environmental sustainability.
 
 ### Contact
-email: tmahmud[dot]eecs[at]gmail.com
-my portfolio: [www.tahminmahmud.me](https://www.tahminmahmud.me/)
-Cell: (564)-444-0904
+* email: tmahmud[dot]eecs[at]gmail.com
+* my portfolio: [www.tahminmahmud.me](https://www.tahminmahmud.me/)
+* Cell: (564)-444-0904
 WA, USA
